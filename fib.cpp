@@ -25,7 +25,6 @@ int main(){
     cout<<"enter a no. :"<<endl;
     cin>>n;
 
-    // cout<<" the factorial of " << n << " is " <<fact(n);
      cout<<" the fib at position of " << n << " is " <<fib(n);
     
 
